@@ -1,0 +1,15 @@
+C:\Users\grt78\source\repos\Recflection\bin\Debug\net6.0\Recflection.exe
+C:\Users\grt78\source\repos\Recflection\bin\Debug\net6.0\Recflection.deps.json
+C:\Users\grt78\source\repos\Recflection\bin\Debug\net6.0\Recflection.runtimeconfig.json
+C:\Users\grt78\source\repos\Recflection\bin\Debug\net6.0\Recflection.dll
+C:\Users\grt78\source\repos\Recflection\bin\Debug\net6.0\Recflection.pdb
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\Recflection.csproj.AssemblyReference.cache
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\Recflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\Recflection.AssemblyInfoInputs.cache
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\Recflection.AssemblyInfo.cs
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\Recflection.csproj.CoreCompileInputs.cache
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\Recflection.dll
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\refint\Recflection.dll
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\Recflection.pdb
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\Recflection.genruntimeconfig.cache
+C:\Users\grt78\source\repos\Recflection\obj\Debug\net6.0\ref\Recflection.dll

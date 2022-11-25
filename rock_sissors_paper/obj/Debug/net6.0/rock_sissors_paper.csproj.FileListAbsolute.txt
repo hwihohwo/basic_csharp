@@ -1,0 +1,15 @@
+C:\Users\grt78\source\repos\rock_sissors_paper\bin\Debug\net6.0\rock_sissors_paper.exe
+C:\Users\grt78\source\repos\rock_sissors_paper\bin\Debug\net6.0\rock_sissors_paper.deps.json
+C:\Users\grt78\source\repos\rock_sissors_paper\bin\Debug\net6.0\rock_sissors_paper.runtimeconfig.json
+C:\Users\grt78\source\repos\rock_sissors_paper\bin\Debug\net6.0\rock_sissors_paper.dll
+C:\Users\grt78\source\repos\rock_sissors_paper\bin\Debug\net6.0\rock_sissors_paper.pdb
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\rock_sissors_paper.csproj.AssemblyReference.cache
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\rock_sissors_paper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\rock_sissors_paper.AssemblyInfoInputs.cache
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\rock_sissors_paper.AssemblyInfo.cs
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\rock_sissors_paper.csproj.CoreCompileInputs.cache
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\rock_sissors_paper.dll
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\refint\rock_sissors_paper.dll
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\rock_sissors_paper.pdb
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\rock_sissors_paper.genruntimeconfig.cache
+C:\Users\grt78\source\repos\rock_sissors_paper\obj\Debug\net6.0\ref\rock_sissors_paper.dll

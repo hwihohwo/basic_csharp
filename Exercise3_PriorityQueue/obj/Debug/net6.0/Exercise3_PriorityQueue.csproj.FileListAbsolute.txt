@@ -1,0 +1,15 @@
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\bin\Debug\net6.0\Exercise3_PriorityQueue.exe
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\bin\Debug\net6.0\Exercise3_PriorityQueue.deps.json
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\bin\Debug\net6.0\Exercise3_PriorityQueue.runtimeconfig.json
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\bin\Debug\net6.0\Exercise3_PriorityQueue.dll
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\bin\Debug\net6.0\Exercise3_PriorityQueue.pdb
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\Exercise3_PriorityQueue.csproj.AssemblyReference.cache
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\Exercise3_PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\Exercise3_PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\Exercise3_PriorityQueue.AssemblyInfo.cs
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\Exercise3_PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\Exercise3_PriorityQueue.dll
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\refint\Exercise3_PriorityQueue.dll
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\Exercise3_PriorityQueue.pdb
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\Exercise3_PriorityQueue.genruntimeconfig.cache
+C:\Users\grt78\source\repos\Exercise3_PriorityQueue\obj\Debug\net6.0\ref\Exercise3_PriorityQueue.dll

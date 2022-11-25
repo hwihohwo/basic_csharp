@@ -1,0 +1,15 @@
+C:\Users\grt78\source\repos\code_flow_control.cs\bin\Debug\net6.0\code_flow_control.cs.exe
+C:\Users\grt78\source\repos\code_flow_control.cs\bin\Debug\net6.0\code_flow_control.cs.deps.json
+C:\Users\grt78\source\repos\code_flow_control.cs\bin\Debug\net6.0\code_flow_control.cs.runtimeconfig.json
+C:\Users\grt78\source\repos\code_flow_control.cs\bin\Debug\net6.0\code_flow_control.cs.dll
+C:\Users\grt78\source\repos\code_flow_control.cs\bin\Debug\net6.0\code_flow_control.cs.pdb
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\code_flow_control.cs.csproj.AssemblyReference.cache
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\code_flow_control.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\code_flow_control.cs.AssemblyInfoInputs.cache
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\code_flow_control.cs.AssemblyInfo.cs
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\code_flow_control.cs.csproj.CoreCompileInputs.cache
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\code_flow_control.cs.dll
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\refint\code_flow_control.cs.dll
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\code_flow_control.cs.pdb
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\code_flow_control.cs.genruntimeconfig.cache
+C:\Users\grt78\source\repos\code_flow_control.cs\obj\Debug\net6.0\ref\code_flow_control.cs.dll

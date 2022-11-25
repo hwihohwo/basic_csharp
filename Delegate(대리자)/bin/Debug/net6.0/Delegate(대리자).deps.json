@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delegate(대리자)/1.0.0": {
+        "runtime": {
+          "Delegate(대리자).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegate(대리자)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

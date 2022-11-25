@@ -1,0 +1,15 @@
+C:\Users\grt78\source\repos\Exercise2_tree\bin\Debug\net6.0\Exercise2_tree.exe
+C:\Users\grt78\source\repos\Exercise2_tree\bin\Debug\net6.0\Exercise2_tree.deps.json
+C:\Users\grt78\source\repos\Exercise2_tree\bin\Debug\net6.0\Exercise2_tree.runtimeconfig.json
+C:\Users\grt78\source\repos\Exercise2_tree\bin\Debug\net6.0\Exercise2_tree.dll
+C:\Users\grt78\source\repos\Exercise2_tree\bin\Debug\net6.0\Exercise2_tree.pdb
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\Exercise2_tree.csproj.AssemblyReference.cache
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\Exercise2_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\Exercise2_tree.AssemblyInfoInputs.cache
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\Exercise2_tree.AssemblyInfo.cs
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\Exercise2_tree.csproj.CoreCompileInputs.cache
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\Exercise2_tree.dll
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\refint\Exercise2_tree.dll
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\Exercise2_tree.pdb
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\Exercise2_tree.genruntimeconfig.cache
+C:\Users\grt78\source\repos\Exercise2_tree\obj\Debug\net6.0\ref\Exercise2_tree.dll

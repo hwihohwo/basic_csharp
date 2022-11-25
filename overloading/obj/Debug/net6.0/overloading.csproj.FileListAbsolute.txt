@@ -1,0 +1,15 @@
+C:\Users\grt78\source\repos\overloading\bin\Debug\net6.0\overloading.exe
+C:\Users\grt78\source\repos\overloading\bin\Debug\net6.0\overloading.deps.json
+C:\Users\grt78\source\repos\overloading\bin\Debug\net6.0\overloading.runtimeconfig.json
+C:\Users\grt78\source\repos\overloading\bin\Debug\net6.0\overloading.dll
+C:\Users\grt78\source\repos\overloading\bin\Debug\net6.0\overloading.pdb
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\overloading.csproj.AssemblyReference.cache
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\overloading.AssemblyInfoInputs.cache
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\overloading.AssemblyInfo.cs
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\overloading.csproj.CoreCompileInputs.cache
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\overloading.dll
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\refint\overloading.dll
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\overloading.pdb
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\overloading.genruntimeconfig.cache
+C:\Users\grt78\source\repos\overloading\obj\Debug\net6.0\ref\overloading.dll

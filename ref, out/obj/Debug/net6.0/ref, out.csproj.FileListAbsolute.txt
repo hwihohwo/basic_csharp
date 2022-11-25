@@ -1,0 +1,15 @@
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref, out.csproj.AssemblyReference.cache
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref, out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref, out.AssemblyInfoInputs.cache
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref, out.AssemblyInfo.cs
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref, out.csproj.CoreCompileInputs.cache
+C:\Users\grt78\source\repos\ref, out\bin\Debug\net6.0\ref, out.exe
+C:\Users\grt78\source\repos\ref, out\bin\Debug\net6.0\ref, out.deps.json
+C:\Users\grt78\source\repos\ref, out\bin\Debug\net6.0\ref, out.runtimeconfig.json
+C:\Users\grt78\source\repos\ref, out\bin\Debug\net6.0\ref, out.dll
+C:\Users\grt78\source\repos\ref, out\bin\Debug\net6.0\ref, out.pdb
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref, out.dll
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\refint\ref, out.dll
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref, out.pdb
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref, out.genruntimeconfig.cache
+C:\Users\grt78\source\repos\ref, out\obj\Debug\net6.0\ref\ref, out.dll

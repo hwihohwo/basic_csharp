@@ -1,0 +1,15 @@
+C:\Users\grt78\source\repos\Object_oriented3\bin\Debug\net6.0\Object_oriented3.exe
+C:\Users\grt78\source\repos\Object_oriented3\bin\Debug\net6.0\Object_oriented3.deps.json
+C:\Users\grt78\source\repos\Object_oriented3\bin\Debug\net6.0\Object_oriented3.runtimeconfig.json
+C:\Users\grt78\source\repos\Object_oriented3\bin\Debug\net6.0\Object_oriented3.dll
+C:\Users\grt78\source\repos\Object_oriented3\bin\Debug\net6.0\Object_oriented3.pdb
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\Object_oriented3.csproj.AssemblyReference.cache
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\Object_oriented3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\Object_oriented3.AssemblyInfoInputs.cache
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\Object_oriented3.AssemblyInfo.cs
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\Object_oriented3.csproj.CoreCompileInputs.cache
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\Object_oriented3.dll
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\refint\Object_oriented3.dll
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\Object_oriented3.pdb
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\Object_oriented3.genruntimeconfig.cache
+C:\Users\grt78\source\repos\Object_oriented3\obj\Debug\net6.0\ref\Object_oriented3.dll
